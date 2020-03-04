@@ -19,7 +19,9 @@
   "homepage": "https://github.com/cjshinning/imooc-webpack-bundler#readme",
   "devDependencies": {},
   "dependencies": {
+    "@babel/core": "^7.8.6",
     "@babel/parser": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
     "@babel/traverse": "^7.8.6"
   }
 }
